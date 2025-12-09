@@ -1,0 +1,50 @@
+# ================================
+# R / RStudio ignores
+# ================================
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user/*
+*.Rproj
+
+# ================================
+# Temporary and system files
+# ================================
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# ================================
+# Data not to upload to GitHub
+# (Raw data protected by copyright)
+# ================================
+data/raw/*
+!data/raw/README_raw.md
+
+# ================================
+# Temporary Excel files
+# ================================
+~$*.xlsx
+~$*.xls
+
+# ================================
+# RMarkdown cache / temporary files
+# ================================
+_cache/
+*.utf8.md
+*.knit.md
+
+# ================================
+# Python cache (if ever used)
+# ================================
+__pycache__/
+*.pyc
+
+# ================================
+# Do NOT upload environment files
+# containing API keys
+# ================================
+.Renviron
+.env
