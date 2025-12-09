@@ -11,7 +11,7 @@ The replication package follows the standards of major academic publishers (Else
 
 
 # Repository Structure
-
+```bash
 remesas-megc-replication/
 │
 ├─ README.md                 # Project overview (this file)
@@ -38,6 +38,7 @@ remesas-megc-replication/
 │
 └─ paper/
     └─ reference.md          # Citation and metadata of the article
+```
 
 # Data Availability
 ## Raw Data (Not Included)
@@ -130,12 +131,13 @@ This project requires:
 - R ≥ 4.2
 
 - The following R packages:
-
+```bash
 install.packages(c(
   "tidyverse", "jsonlite", "wbstats", "readxl", "XLConnect",
   "lubridate", "vars", "urca", "tsibble",
   "fabletools", "metafor", "gridExtra", "scales"
 ))
+```
 
 Some packages (e.g., tabulapdf) may require system-level dependencies;
 instructions are provided in the corresponding scripts.
