@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows:"
+title: "Replication Package: Remittances, Real Exchange Rate Dynamics, and Macroeconomic Vulnerability in Honduras"
+authors:
+  - family-names: "Osorto"
+    given-names: "Henry"
+    orcid: "https://orcid.org/0000-0002-4334-9179"
+date-released: "2025-02-01"
+version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxx"  # Add once Zenodo DOI is created
+url: "https://github.com/Henry-Osorto/remesas-megc-replication"
+license: "MIT"
+type: software
+keywords:
+  - remittances
+  - macroeconomics
+  - VECM
+  - VAR
+  - exchange rate
+  - Honduras
+  - replication package
