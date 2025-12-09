@@ -183,7 +183,11 @@ Replication package available at: https://github.com/henryosorto/remesas-megc-re
 For questions, collaborations, or methodological inquiries:
 
 Henry Osorto
+
 Department of Economics
+
 UNAH - Universidad Nacional Autónoma de Honduras
+
 Email: henry.osorto@unah.edu.hn
+
 GitHub: https://github.com/Henry-Osorto
