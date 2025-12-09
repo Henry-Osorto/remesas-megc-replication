@@ -115,13 +115,13 @@ Each script is fully documented and follows bilingual (English/Spanish) annotati
 
 Each script explicitly documents which table/figure of the article it reproduces.
 
-#API Key Configuration
+# API Key Configuration
 
 To download data from the BCH WebAPI, the API key must be stored securely in .Renviron.
 
 Add the following line:
 
-BCH_API_KEY=your_api_key_here
+ `BCH_API_KEY=your_api_key_here`
 
 
 # Software Requirements
