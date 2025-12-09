@@ -11,7 +11,8 @@ The replication package follows the standards of major academic publishers (Else
 
 
 # Repository Structure
-```bash
+
+```text
 remesas-megc-replication/
 │
 ├─ README.md                 # Project overview (this file)
@@ -39,6 +40,7 @@ remesas-megc-replication/
 └─ paper/
     └─ reference.md          # Citation and metadata of the article
 ```
+
 
 # Data Availability
 ## Raw Data (Not Included)
