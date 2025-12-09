@@ -10,7 +10,7 @@ However, all sources are publicly accessible through the links below.
 ## 1. ITCER (Real Exchange Rate Index)
 
 Source: **Banco Central de Honduras (BCH)**  
-URL: https://www.bch.hn/estadisticas_tcr.php
+URL: https://www.bch.hn/estadisticas-y-publicaciones-economicas/tipo-de-cambio-efectivo-real
 
 Download the historical ITCER PDF files corresponding to the years used in the analysis.  
 Place the PDF(s) inside this folder before running:
